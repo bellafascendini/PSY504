@@ -1,5 +1,5 @@
 ---
-title: "Ordinal Regression Lab Answers"
+title: "Ordinal Regression Lab"
 output: 
     css: 
     tufte_variant: "envisioned"
