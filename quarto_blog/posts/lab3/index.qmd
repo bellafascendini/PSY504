@@ -1,7 +1,6 @@
 ---
 title: "Ordinal Regression Lab Answers"
-output: 
-  tufte::tufte_html:
+format: tufte-html:
     css: 
     tufte_variant: "envisioned"
     highlight: github-dark
